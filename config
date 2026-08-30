@@ -1,2 +1,2 @@
-spark.executor.core = 5 
-spark.executor.memory = 3G
+spark.executor.core = 6 
+spark.executor.memory = 4G
